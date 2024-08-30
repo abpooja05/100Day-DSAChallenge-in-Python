@@ -3,18 +3,16 @@
 class Solution:
     def armstrongNumber (self, n):
         # code here 
-        str_n = str(n)
-        total = 0
-        for digit in str_n:
-            total += int(digit) ** 3
+        first = n // 100
+        second = (n // 10) % 10
+        third = n % 10
         
-        
-        if total == n:
+        total = first ** 3 + second ** 3 + third ** 3
+        if n == total:
             return "true"
         else:
             return "false"
-        
-        
+
 
 #{ 
  # Driver Code Starts
