@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
