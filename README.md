@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
