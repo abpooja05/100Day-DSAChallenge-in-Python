@@ -1,28 +1,29 @@
 #User function Template for python3
 
 class Solution:
-    def armstrongNumber (self, n):
-        # code here 
-        first = n // 100
+    def armstrongNumber(self, n):
+        first = n % 10
         second = (n // 10) % 10
-        third = n % 10
-        
-        total = first ** 3 + second ** 3 + third ** 3
-        if n == total:
-            return "true"
-        else:
-            return "false"
+        third = n // 100
+        digit_sum = first ** 3 + second ** 3 + third ** 3
 
+        return n == digit_sum
+        
+        
 
 #{ 
  # Driver Code Starts
-#Initial Template for Python 3
+# Initial Template for Python 3
 if __name__ == '__main__':
     t = int(input())
     for _ in range(t):
         n = input()
         n = int(n)
         ob = Solution()
-        print(ob.armstrongNumber(n))
-
+        flag = ob.armstrongNumber(n)
+        if flag:
+            print("true")
+        else:
+            print("false")
+        print("~")
 # } Driver Code Ends
