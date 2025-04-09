@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
