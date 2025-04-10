@@ -5,4 +5,3 @@ class Solution:
         else:
             res = n * 2
             return res
-        
