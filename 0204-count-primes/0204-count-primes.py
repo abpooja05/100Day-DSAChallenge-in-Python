@@ -8,7 +8,7 @@ class Solution:
       return 0
     
     # Initialize a list to mark visited numbers (is_prime[i] = True indicates i is prime)
-    is_prime = [True] * n
+    is_prime = [True] * n  # n is the size of the array
     is_prime[0] = is_prime[1] = False  # 0 and 1 are not prime
 
     # Sieve of Eratosthenes to mark non-primes
