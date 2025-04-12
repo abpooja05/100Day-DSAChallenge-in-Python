@@ -11,33 +11,19 @@ class Solution:
                 i += 1
         return N
         
-        # prime_factor = 1
-        # i = 2
-        # while i <= N:
-        #     if N % i == 0:
-        #         prime_factor = i
-        #         N = N/i
-        #     else:
-        #         i += 1
-        
-        # if prime_factor < N:
-        #     prime_factor = N
-        # else:
-        #     return prime_factor
-        
-        
 
 
 #{ 
  # Driver Code Starts
 #Initial Template for Python 3
 
-if __name__ == '__main__': 
-    t = int (input ())
-    for _ in range (t):
+if __name__ == '__main__':
+    t = int(input())
+    for _ in range(t):
         N = int(input())
-       
 
         ob = Solution()
         print(ob.largestPrimeFactor(N))
+        print("~")
+
 # } Driver Code Ends
