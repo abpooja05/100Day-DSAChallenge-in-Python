@@ -1,12 +1,19 @@
-#User function Template for python3
 class Solution:
-    def print2largest(self, arr):
+    def getSecondLargest(self, arr):
         # Code Here
-        arr = list(set(arr))
-        arr.sort()
-        if len(arr) > 1:
-            return arr[-2]
-        return -1
+        largest=arr[0]
+        for i in arr:
+            if i>largest:
+                largest=i
+
+        secondLargest=-1
+        
+        for i in arr:
+            if i>secondLargest and i!=largest:
+                secondLargest=i
+                
+        return secondLargest
+
 
 #{ 
  # Driver Code Starts
@@ -17,7 +24,7 @@ if __name__ == "__main__":
     for _ in range(t):
         arr = list(map(int, input().split()))
         ob = Solution()
-        ans = ob.print2largest(arr)
+        ans = ob.getSecondLargest(arr)
         print(ans)
-
+        print("~")
 # } Driver Code Ends
