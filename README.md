@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
+| [0485-max-consecutive-ones](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
