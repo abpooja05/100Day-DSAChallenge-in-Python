@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [2491-smallest-even-multiple](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2491-smallest-even-multiple) |
 ## Dynamic Programming
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -55,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
