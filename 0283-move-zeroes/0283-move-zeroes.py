@@ -1,14 +1,8 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        non_zero_index = 0
-
-        for i in range(len(nums)):
-            if nums[i] != 0:
-                nums[non_zero_index] = nums[i]
-                non_zero_index += 1
-        
-        for i in range(non_zero_index, len(nums)):
-            nums[i] = 0
+        l = 0  # initialise left pointer
+        for r in range(len(nums)):  # right pointer iterates through length of array
+            if nums[r]:   # If num is non-zero swap the left and right pointer values
+                nums[l], nums[r] = nums[r], nums[l]
+                l += 1  # increment left pointer everytime you swap the values
+        return nums
