@@ -1,54 +1,38 @@
-#Sort the array using insertion sort
-class Solution:
-    #Function to sort the list using insertion sort algorithm.    
-    def insertionSort(self, alist, n):
-        #code here
-        for i in range(n):
-            key =arr[i]
-            j=i-1
-            while j>=0 and key<arr[j]:
-                arr[j+1] =arr[j]
-                j-=1
-            arr[j+1] = key
-        return arr
+#{ 
+ # Driver Code Starts
+#Initial Template for Python 3
 
-# class Solution:
-#     #code here
-#     def insert(self, alist, index, n):
-#         for i in range(1,len(alist)):
-#             key = alist[i]
-#             j = i-1
-            
-#             while j>=0 and key<alist[j]:
-#                 alist[j+1] = alist[j]
-#                 j = j-1
-                
-#             alist[j+1] = key
-            
-#         return alist
-            
-        
-        
-#     #Function to sort the list using insertion sort algorithm.    
-#     def insertionSort(self, alist, n):
-#         #code here
-#         return Solution.insert(self, alist, n, n)
-        
+# } Driver Code Ends
+
+
+# Please change the array in-place
+class Solution:
+    def insertionSort(self, arr):
+        for i in range(1, len(arr)):
+            key = arr[i]
+            j = i - 1
+            # Move elements of arr[0..i-1], that are greater than key,
+            # to one position ahead of their current position
+            while j >= 0 and arr[j] > key:
+                arr[j + 1] = arr[j]
+                j -= 1
+            arr[j + 1] = key
+        return arr  # Optional if you want to return the sorted array
 
 
 #{ 
- # Driver Code Starts
+ # Driver Code Starts.
+#Initial Template for Python 3
+
 if __name__ == "__main__":
     t = int(input())
-    for i in range(t):
-        n = int(input())
+    while t > 0:
         arr = list(map(int, input().split()))
+        ob = Solution()
+        ob.insertionSort(arr)
+        print(*arr)
+        print("~")
+        t -= 1
 
-        Solution().insertionSort(arr, n)
-
-        for i in range(n):
-            print(arr[i], end=" ")
-
-        print()
 
 # } Driver Code Ends
