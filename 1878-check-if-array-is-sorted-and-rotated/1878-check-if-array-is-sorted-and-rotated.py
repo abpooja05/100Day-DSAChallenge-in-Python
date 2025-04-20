@@ -11,6 +11,11 @@ class Solution:
                 break
         return nums[minIdx:] + nums[:minIdx] == sorted(nums)
     
+
+
+
+
+    
     ###other method
 #     def check(self, nums: List[int]) -> bool:
 #         n = len(nums)
