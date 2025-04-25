@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0485-max-consecutive-ones) |
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0287-find-the-duplicate-number) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
