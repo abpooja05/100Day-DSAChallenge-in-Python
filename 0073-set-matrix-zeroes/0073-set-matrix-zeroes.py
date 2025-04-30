@@ -1,8 +1,5 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
         m = len(matrix)
         n = len(matrix[0])
         shouldFillFirstRow = 0 in matrix[0]
