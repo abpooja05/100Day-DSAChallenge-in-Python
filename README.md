@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0289-game-of-life) |
 | [0485-max-consecutive-ones](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0289-game-of-life) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
@@ -134,4 +136,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
