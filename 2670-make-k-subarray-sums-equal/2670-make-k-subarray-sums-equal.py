@@ -1,6 +1,5 @@
 class Solution:
     def makeSubKSumEqual(self, arr: List[int], k: int) -> int:
-        from statistics import median
 
         n = len(arr)
         g = gcd(n, k)  # Number of groups
