@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0287-find-the-duplicate-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
 ## Hash Table
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
