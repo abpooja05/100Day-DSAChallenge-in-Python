@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2670-make-k-subarray-sums-equal](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2670-make-k-subarray-sums-equal) |
 ## Two Pointers
@@ -129,12 +130,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2670-make-k-subarray-sums-equal](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2670-make-k-subarray-sums-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0169-majority-element) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -157,4 +160,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+## Quickselect
+|  |
+| ------- |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
