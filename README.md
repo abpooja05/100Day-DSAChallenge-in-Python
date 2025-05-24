@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2670-make-k-subarray-sums-equal](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2670-make-k-subarray-sums-equal) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0268-missing-number) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2491-smallest-even-multiple](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2491-smallest-even-multiple) |
 | [2670-make-k-subarray-sums-equal](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2670-make-k-subarray-sums-equal) |
 ## Dynamic Programming
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/0289-game-of-life) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Greedy
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/abpooja05/100Day-DSAChallenge-in-Python/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
